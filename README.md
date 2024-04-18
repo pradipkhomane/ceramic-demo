@@ -1,5 +1,7 @@
 # Project: Build Sovereign User Profiles using Ceramic Self.ID
 
+![Screenshot 2024-04-18 224548](https://github.com/pradipkhomane/ceramic-demo/assets/20298999/2832aa66-efab-4ab0-a3ab-6ca56766048e)
+
 ## Overview
 
 Ceramic is a decentralized data network that enables the creation of composable Web3 applications. By decentralizing application databases, Ceramic empowers developers to reuse data across applications and ensure automatic interoperability.
